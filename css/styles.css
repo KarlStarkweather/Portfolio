@@ -1,5 +1,5 @@
 h1 {
-  font-size: large;
+  font-size: xx-large;
   font-weight: bold;
 }
 
@@ -13,9 +13,10 @@ h1 {
 
 .card {
   border-style: groove;
-  padding: 1%;
-  margin: 1%;
   background-color: cornsilk;
+  margin: 2px;
+  max-width: 50%;
+  float: leftt;
 }
 
 .bio {
@@ -23,4 +24,11 @@ h1 {
   padding: 1%;
   margin: 1%;
   background-color: aliceblue;
+}
+
+.pic {
+  border-style: outset;
+  float: right;
+  height: 400px;
+  
 }
