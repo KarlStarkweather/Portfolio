@@ -1,7 +1,6 @@
 h1 {
   font-size: large;
   font-weight: bold;
-
 }
 
 .projects {
@@ -17,4 +16,11 @@ h1 {
   padding: 1%;
   margin: 1%;
   background-color: cornsilk;
+}
+
+.bio {
+  border-style: outset;
+  padding: 1%;
+  margin: 1%;
+  background-color: aliceblue;
 }
