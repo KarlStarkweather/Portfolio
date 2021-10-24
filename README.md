@@ -11,7 +11,7 @@ This is a landing page designed to assist Karl in finding meaningful employment
 ## Setup Instructions
 Simply copy the link below
 
-[link](http://KarlStarkweather.github.io/Portfolio)
+[link](http://KarlStarkweather.github.io/Portfolio/)
 
 ## known bugs:
 None
