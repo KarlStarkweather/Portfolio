@@ -1,0 +1,20 @@
+h1 {
+  font-size: large;
+  font-weight: bold;
+
+}
+
+.projects {
+  color: chocolate;
+}
+
+.shout {
+  font-size: large;
+}
+
+.card {
+  border-style: groove;
+  padding: 1%;
+  margin: 1%;
+  background-color: cornsilk;
+}
