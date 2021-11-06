@@ -9,9 +9,11 @@ This is a landing page designed to assist Karl in finding meaningful employment
 * CSS
 
 ## Setup Instructions
-Simply copy the link below
+The following is the GHpages link for this site:
 
 [link](http://KarlStarkweather.github.io/Portfolio)
+
+Links to completed projects demonstrating programming skills are provided, and a summary of who I am and my skills are located further down the page
 
 ## known bugs:
 None
